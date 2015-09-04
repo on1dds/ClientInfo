@@ -1,0 +1,9 @@
+\\srv-file1\Userdata$\joachim.elen\Documents\Visual Studio 2015\Projects\ClientInfo\ClientInfo\bin\Debug\ClientInfo.exe.config
+\\srv-file1\Userdata$\joachim.elen\Documents\Visual Studio 2015\Projects\ClientInfo\ClientInfo\obj\Debug\ClientInfo.exe
+\\srv-file1\Userdata$\joachim.elen\Documents\Visual Studio 2015\Projects\ClientInfo\ClientInfo\obj\Debug\ClientInfo.pdb
+\\srv-file1\Userdata$\joachim.elen\Documents\Visual Studio 2015\Projects\ClientInfo\ClientInfo\bin\Debug\ClientInfo.exe
+\\srv-file1\Userdata$\joachim.elen\Documents\Visual Studio 2015\Projects\ClientInfo\ClientInfo\bin\Debug\ClientInfo.pdb
+\\srv-file1\Userdata$\joachim.elen\Documents\Visual Studio 2015\Projects\ClientInfo\ClientInfo\obj\Debug\ClientInfo.Properties.Resources.resources
+\\srv-file1\Userdata$\joachim.elen\Documents\Visual Studio 2015\Projects\ClientInfo\ClientInfo\obj\Debug\ClientInfo.csproj.GenerateResource.Cache
+\\srv-file1\Userdata$\joachim.elen\Documents\Visual Studio 2015\Projects\ClientInfo\ClientInfo\obj\Debug\ClientInfo.ClientInfo.resources
+\\srv-file1\Userdata$\joachim.elen\Documents\Visual Studio 2015\Projects\ClientInfo\ClientInfo\obj\Debug\ClientInfo.csprojResolveAssemblyReference.cache

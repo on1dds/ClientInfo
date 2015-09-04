@@ -117,43 +117,11 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="lstInfo.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>None</value>
-  </data>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="lstInfo.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Courier New, 9.75pt</value>
-  </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="lstInfo.ItemHeight" type="System.Int32, mscorlib">
-    <value>16</value>
-  </data>
-  <data name="lstInfo.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 10</value>
-  </data>
-  <data name="lstInfo.Size" type="System.Drawing.Size, System.Drawing">
-    <value>408, 148</value>
-  </data>
-  <data name="lstInfo.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;lstInfo.Name" xml:space="preserve">
-    <value>lstInfo</value>
-  </data>
-  <data name="&gt;&gt;lstInfo.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lstInfo.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;lstInfo.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <metadata name="notifyIcon1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+  <metadata name="nfy_clientinfo.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
-  <data name="notifyIcon1.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="nfy_clientinfo.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA
         AAD///8AL4X/1SmB//8hff//G3n/r////wD///8A////AP///wD///8A////AP///wD///8A////AP//
@@ -177,12 +145,43 @@
         AAD/BwAA/4cAAA==
 </value>
   </data>
-  <data name="notifyIcon1.Text" xml:space="preserve">
-    <value>trayIcon</value>
+  <data name="nfy_clientinfo.Text" xml:space="preserve">
+    <value>ClientInfo</value>
   </data>
-  <data name="notifyIcon1.Visible" type="System.Boolean, mscorlib">
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="nfy_clientinfo.Visible" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="lstInfo.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Courier New, 9.75pt</value>
+  </data>
+  <data name="lstInfo.ItemHeight" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="lstInfo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="lstInfo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>305, 132</value>
+  </data>
+  <data name="lstInfo.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;lstInfo.Name" xml:space="preserve">
+    <value>lstInfo</value>
+  </data>
+  <data name="&gt;&gt;lstInfo.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lstInfo.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lstInfo.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="updateInfo.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>145, 15</value>
+  </metadata>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
@@ -190,16 +189,46 @@
     <value>6, 13</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>415, 168</value>
+    <value>320, 147</value>
+  </data>
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA
+        AAD///8AL4X/1SmB//8hff//G3n/r////wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8AP5H/zGGk//+Xwv//lMD//1GY//8fef+v////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AEmV//+gx///g7f//3+0//+Xwv//U5n//yF7/6////8A////AP///wD///8A////AP//
+        /wD///8A////AP///wBTnf//pMv//4u8//93sP//gLX//5jD//9WnP//I33/rP///wD///8A////AP//
+        /wD///8A////AP///wD///8AW6P/knmz//+lzP//jb3//3my//+Dtv//mcP//1ic//8lf/+s////AP//
+        /wD///8A////AP///wD///8A////AP///wBfpf+Se7T//6bM//+Ovv//fLP//4W4//+bxf//WZ7//ymB
+        /6r///8A////AP///wD///8A////AP///wD///8A////AGGl/5J8tv//qM7//5C///+Lvf//oMj//2Gk
+        //83h/rJ////AP///wD///8A////AP///wD///8A////AP///wD///8AZaf/kn63//+pzv//qM3//3Cs
+        //9fmu7/iIiI94aGhiP///8A////AP///wD///8A////AP///wD///8A////AP///wBlqf+Sgbf//3y0
+        //9vp/L/0tLS/7W1tf+JiYn+h4eH+4WFhfuDg4PWgYGBcP///wD///8A////AP///wD///8A////AGmr
+        /5JnpfXPkpKS+8fHx//MzMz/x8fH/8bGxv/Dw8P/wMDA/4SEhPWCgoJw////AP///wD///8A////AP//
+        /wD///8A////AJWVlUiTk5P+1NTU/8jIyP+8vLz/urq6/8LCwv/ExMT/hYWF1v///wD///8A////AP//
+        /wD///8A////AP///wD///8AlpaW/N3d3f/FxcX/j4+PwY2NjcOsrKz/19fX/4eHh/v///8A////AP//
+        /wD///8A////AP///wD///8A////AJiYmPvk5OT/z8/P/5KSksL///8Ajo6O/4yMjP+Kior7////AP//
+        /wD///8A////AP///wD///8A////AP///wCbm5vW4uLi/+fn5/+5ubn/k5OT/////wD///8A////AP//
+        /wD///8A////AP///wD///8A////AP///wD///8AnZ2dcJubm/Xk5OT/7u7u/5aWlv////8A////AP//
+        /wD///8A////AP///wD///8A////AP///wD///8A////AP///wCenp5wnJyc1pubm/uZmZn7////AP//
+        /wD///8Ah/8AAAP/AAAB/wAAAP8AAAB/AACAPwAAwD8AAOAfAADwAQAA+AAAAP4AAAD/AAAA/wgAAP8H
+        AAD/BwAA/4cAAA==
+</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Form1</value>
+    <value>ClientInfo</value>
   </data>
-  <data name="&gt;&gt;notifyIcon1.Name" xml:space="preserve">
-    <value>notifyIcon1</value>
+  <data name="&gt;&gt;nfy_clientinfo.Name" xml:space="preserve">
+    <value>nfy_clientinfo</value>
   </data>
-  <data name="&gt;&gt;notifyIcon1.Type" xml:space="preserve">
+  <data name="&gt;&gt;nfy_clientinfo.Type" xml:space="preserve">
     <value>System.Windows.Forms.NotifyIcon, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;updateInfo.Name" xml:space="preserve">
+    <value>updateInfo</value>
+  </data>
+  <data name="&gt;&gt;updateInfo.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>ClientInfo</value>

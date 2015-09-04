@@ -1,0 +1,8 @@
+\\srv-file1\userdata$\joachim.elen\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+\\srv-file1\userdata$\joachim.elen\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ClientInfo.exe.config
+\\srv-file1\userdata$\joachim.elen\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ClientInfo.exe
+\\srv-file1\userdata$\joachim.elen\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ClientInfo.pdb
+\\srv-file1\userdata$\joachim.elen\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ClientInfo.Form1.resources
+\\srv-file1\userdata$\joachim.elen\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ClientInfo.Properties.Resources.resources
+\\srv-file1\userdata$\joachim.elen\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ClientInfo.exe
+\\srv-file1\userdata$\joachim.elen\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ClientInfo.pdb
